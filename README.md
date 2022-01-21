@@ -10,8 +10,8 @@
 
 # Content
 
-1. All the Machine Learning models are in ml_algos_regression.ipynn
-2. bert.ipynb contains model with BERT sentence embedding.
+1. All the Machine Learning models are in ml_algos_svr.ipynn, ml_algos_DT.ipynb, ml_regression.ipynb
+2. proposed model.ipynb contains model with BERT sentence embedding.
 
 In this research, we emphasise reviewed research papers and present results from experimental studies to see how well an state of art model can replicate existing peer reviewer confidence scores prediction. To accomplish so, we used a collection of submitted reviews at the ICLR conference from the years 2018, 2019 and 2021, to train the framed architecture.
 
